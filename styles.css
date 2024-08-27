@@ -1,0 +1,25 @@
+body{
+    color:wheat;
+    background:purple;
+    margin: 3px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    border-bottom: solid 1px wheat;
+    margin: 10px;
+    font-size: 25px;
+    color: wheat;
+}
+
+section {
+    background: rgb(175,62,175);
+    padding-bottom: 68px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
